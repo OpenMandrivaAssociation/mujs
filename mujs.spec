@@ -1,6 +1,6 @@
 Name:           mujs
 Version:        1.3.2
-Release:        1
+Release:        2
 Summary:        An embeddable Javascript interpreter
 License:        AGPLv3+
 URL:            http://mujs.com/
