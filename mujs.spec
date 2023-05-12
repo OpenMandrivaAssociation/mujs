@@ -1,6 +1,6 @@
 Name:           mujs
-Version:        1.3.2
-Release:        2
+Version:        1.3.3
+Release:        1
 Summary:        An embeddable Javascript interpreter
 License:        AGPLv3+
 URL:            http://mujs.com/
@@ -37,6 +37,7 @@ make install DESTDIR=%{buildroot} prefix="%{_prefix}" libdir="%{_libdir}" \
 %license COPYING
 %doc AUTHORS README docs
 %{_bindir}/%{name}
+%{_bindir}/%{name}-pp
 
 %files devel
 %license COPYING
