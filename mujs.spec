@@ -3,7 +3,7 @@ Version:        1.3.5
 Release:        1
 Summary:        An embeddable Javascript interpreter
 License:        AGPLv3+
-URL:            http://mujs.com/
+URL:            https://mujs.com/
 Source0:        https://mujs.com/downloads/%{name}-%{version}.tar.gz
 BuildRequires:  readline-devel
 Group:		System/Libraries
