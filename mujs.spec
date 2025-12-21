@@ -5,6 +5,7 @@ Summary:        An embeddable Javascript interpreter
 License:        AGPLv3+
 URL:            https://mujs.com/
 Source0:        https://mujs.com/downloads/%{name}-%{version}.tar.gz
+BuildRequires:	make
 BuildRequires:  readline-devel
 Group:		System/Libraries
 
