@@ -1,5 +1,5 @@
 Name:           mujs
-Version:        1.3.5
+Version:        1.3.9
 Release:        1
 Summary:        An embeddable Javascript interpreter
 License:        AGPLv3+
